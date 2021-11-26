@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require_relative "tagger/version"
+require_relative "tagger/file"
 
 module Unitf
   module Tagger
